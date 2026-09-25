@@ -1,5 +1,5 @@
 # Redirecting to 727a8.com
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 > Free educational resource at 727a8.org.
 
@@ -10,6 +10,7 @@
 - Redirecting to 727a8.com: https://727a8.org/
 - Section 727(a)(8) FAQ - Chapter 7 Discharge Waiting Period: https://727a8.org/frequently-asked-questions.html
 - Privacy Policy: https://727a8.org/privacy.html
+- About 727a8.org: https://727a8.org/about.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
